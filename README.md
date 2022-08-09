@@ -1,11 +1,12 @@
-# USDC Blacklist 🌪
+# USDCentral 🌪
 
+Check out the [Live Demo](https://usdcentral.deno.dev) 
 ## Description
 
-A dead simple ui (web2ish) that shows latest (usdc) blacklisted wallets on ethereum.
+A dead simple ui (web2ish) that (currently) shows latest (usdc) blacklisted wallets on ethereum.
 
-Written in Typescript and using [Deno](https://deno.land) and
-[Fresh](https://fresh.deno.dev) for blazing fast development.
+⚡⚡ Written in Typescript and using [Deno](https://deno.land) and
+[Fresh](https://fresh.deno.dev) for blazing fast development ⚡⚡
 
 ### Requirements
 
@@ -25,3 +26,4 @@ Start the project:
 ```
 MORALIS_WEB3_API_KEY=<YOUR_API_KEY> deno task start
 ```
+Check out the [Live Demo](https://usdcentral.deno.dev) 
