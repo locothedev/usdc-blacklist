@@ -2,10 +2,10 @@
 
 ## Description
 
-A simple ui (web2ish) that shows latest (usdc) blacklisted wallets on ethereum.
+A dead simple ui (web2ish) that shows latest (usdc) blacklisted wallets on ethereum.
 
 Written in Typescript and using [Deno](https://deno.land) and
-[Fresh]{https://fresh.deno.dev} for blazing fast development.
+[Fresh](https://fresh.deno.dev) for blazing fast development.
 
 ### Requirements
 
