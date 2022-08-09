@@ -44,7 +44,7 @@ export default function Blacklist({ data }: PageProps<IBlacklistProps>) {
   return (
     <div style={{ textOverflow: "clip" }}>
       <h1 style={{ textOverflow: "wrap" }}>Latest Blacklistsed Wallets</h1>
-      <h3>
+      <h2>
         Current Blacklister:{" "}
         <a
           href={`https://etherscan.io/address/${data.result[0].address}`}
@@ -52,7 +52,7 @@ export default function Blacklist({ data }: PageProps<IBlacklistProps>) {
         >
           {getEllipsisTxt(data.result[0].address)}
         </a>
-      </h3>
+      </h2>
       <div style={{ display: "grid", gap: 32 }}>
         {data.result.map((event, index) => (
           <div
