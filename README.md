@@ -1,6 +1,5 @@
 # USDCentral 🌪
 
-Check out the [Live Demo](https://usdcentral.deno.dev) 
 ## Description
 
 A dead simple ui (web2ish) that (currently) shows latest (usdc) blacklisted wallets on ethereum.
@@ -26,4 +25,3 @@ Start the project:
 ```
 MORALIS_WEB3_API_KEY=<YOUR_API_KEY> deno task start
 ```
-Check out the [Live Demo](https://usdcentral.deno.dev) 
